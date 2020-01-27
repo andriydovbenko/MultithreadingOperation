@@ -1,6 +1,6 @@
 package com.register.manager.service;
 
-import com.register.manager.model.Account;;
+import com.register.manager.model.Account;
 
 import java.util.ArrayList;
 import java.util.List;
